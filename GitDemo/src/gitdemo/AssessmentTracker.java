@@ -66,7 +66,7 @@ public class AssessmentTracker extends Frame implements ActionListener, WindowLi
 
     private void run()
     {
-        setBounds(100, 10, 1090, 790);
+        setBounds(120, 15, 1095, 795);
         setTitle("Assessment Tracker By Blair Weston");
         this.addWindowListener(this);
         startLayout();
